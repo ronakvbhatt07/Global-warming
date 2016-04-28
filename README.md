@@ -5,8 +5,8 @@ All information related to Global warming
 #File contents
 
 - [How our world works?](#how-our-world-works)
-- [Global warming effecting factors](#Global-warming-effecting-factors)
-- [References](#references)
+- [Global warming effecting factors](#global-warming-effecting-factors)
+- [Further reading](#further-reading)
 
 
 ## How our world works?
@@ -42,7 +42,10 @@ Petrol is like boon to our society. When petrol is combusted, we can produce lot
 
 #### Livestock:
 
-## References
+## Further reading
 
 - [Cowspiracy](http://www.cowspiracy.com/)
 - [Earthlings](http://www.imdb.com/title/tt0358456/)
+- [WaitButWhy - Four part series on Elon Musk’s companies (IMO, part 2 is interesting)](http://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html)
+- [Why the world is using non-renewable resources?](http://sustainability.stackexchange.com/q/4558/2346)
+- [Absence of Ozone above Antarctica](http://news.nationalgeographic.com/news/2010/05/100505-science-environment-ozone-hole-25-years/)
