@@ -7,4 +7,4 @@ The aim of this repository is to gather all information related to Global warmin
 
 If you want to help, you are most welcome to contribute to this repository. Please read [contribution guidelines](/contribution.md) before starting to contribute.
 
-Read the content [here](/master/content.md)
+Read the content [here](/content.md)
