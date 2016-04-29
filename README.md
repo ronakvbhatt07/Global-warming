@@ -1,12 +1,18 @@
 # Global-warming
 All information related to Global warming
 
+## Aim
 
-#File contents
+The aim of this repository is to gather all information related to Global warming and show-case the gathered info in an organised way such that most of the people can understand the effect of Global warming.
+
+If you want to help, you are most welcome to contribute to this repository. Please read [contribution guidelines](/dreamgreen/contribution.md) before starting to contribute.
+
+
+
+# File contents
 
 - [How our world works?](#how-our-world-works)
 - [Global warming effecting factors](#global-warming-effecting-factors)
-- [Further reading](#further-reading)
 
 
 ## How our world works?
@@ -26,11 +32,11 @@ According to Science, if Sun rays falls directly upon the planet Earth then most
 ## Global warming effecting factors
 
 
-#### Usage of Fossil fuels: 
+#### Usage of Fossil fuels:
 
 Fossil fuels are non-renewable energy resources. That means we can't reproduce/recycle it. Fossil fuels are formed by decomposition of plants and animals inside Earth for a period of more than 100 million years. There are three type of fossil fuels like Coal, Oil and Natural gas. I don't want to go deep on why/how these fossil fuels are used, I will just stick on why the combustion of fossil fuels is Evil, IMO.
 
-Fossil fuels generate a huge amount of energy by combustion process. In combustion process, the result will be Energy + Heat (`co2`). This heat when gone into outermost layers of our atmosphere where ozone is present, it reacts with the ozone 
+Fossil fuels generate a huge amount of energy by combustion process. In combustion process, the result will be Energy + Heat (`co2`). This heat when gone into outermost layers of our atmosphere where ozone is present, it reacts with the ozone
 
 Petrol is like boon to our society. When petrol is combusted, we can produce lots of energy which can be used for many good things like travelling long distances in short time. Travelling in short time is possible by using machines which can combust this petrol (known as Vehicles).
 
@@ -41,12 +47,3 @@ Petrol is like boon to our society. When petrol is combusted, we can produce lot
 #### Water table:
 
 #### Livestock:
-
-## Further reading
-
-- [Cowspiracy](http://www.cowspiracy.com/)
-- [Earthlings](http://www.imdb.com/title/tt0358456/)
-- [WaitButWhy - Four part series on Elon Musk’s companies (IMO, part 2 is interesting)](http://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html)
-- [Why the world is using non-renewable resources?](http://sustainability.stackexchange.com/q/4558/2346)
-- [Absence of Ozone above Antarctica](http://news.nationalgeographic.com/news/2010/05/100505-science-environment-ozone-hole-25-years/)
-_ [Plastic eating worms](http://www.treehugger.com/animals/mealworms-can-eat-all-plastic-diet-and-not-die.html)
