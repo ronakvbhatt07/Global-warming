@@ -17,6 +17,12 @@ According to Science, if Sun rays falls directly upon the planet Earth then most
 
 ### What's happening to the Ozone layer?
 
+The Environmental Protection Agency (EPA) explains that the ozone layer of the atmosphere, Earth's protective layer, is being damaged by human activities, particularly the production of greenhouse gases.These gases are known to erode the surface of the ozone layer, meaning that its protective properties are consistently being diminished over time.
+The EPA explains that less protection from the ozone layer means higher levels of ultraviolet light from the sun are streaming through the Earth's atmospheric layer and causing damage not only damage to crops but to people as well. The destruction of the ozone layer has led to an international cooperation between 190 government agencies around the world, including the EPA, geared towards reducing greenhouse gas emissions and preserving the ozone layer.
+NASA Ozone Watch reports that the largest tear within the ozone layer is located over Antarctica, and that the damage is due to extreme reactions between unnaturally high concentrations of bromine and chlorine gases trapped within the layers of the atmosphere. The website explains that although there has been a hole in the southern polar region for decades, the extent of the damage has been growing consistently worse since then, and in 2013, it had reached its peak for the first time since 1979.
+
+
+
 ### What are the consequences if the Ozone layer is absent?
 
 # Global warming effecting factors
